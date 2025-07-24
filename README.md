@@ -3,7 +3,7 @@
 🚀 Back-end developer with a passion for building scalable web applications.
 
 - 🔭 I’m currently working on: Capgemini
-- 🌱 Currently learning: DDD, Hexagonal Pattern, Kafka
+- 🌱 Currently learning: DDD, Hexagonal Pattern, Kafka, Kubernets
 - 💬 Ask me about: Java, Spring, Node.js, Microservices
 - 📫 How to reach me: ymoutella@gmail.com | https://linkedin.com/in/ymoutella
 
