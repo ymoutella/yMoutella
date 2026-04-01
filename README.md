@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: Capgemini
 - 🌱 Currently learning: Hexagonal Pattern, Kubernets
 - 💬 Ask me about: Java, Spring, Node.js, Microservices, Event-driven
-- 📫 How to reach me: personal@ymoutella.com.br | https://linkedin.com/in/ymoutella
+- 📫 How to reach me: yure@ymoutella.com.br | https://linkedin.com/in/ymoutella
 
 ---
 
